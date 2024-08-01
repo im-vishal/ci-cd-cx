@@ -12,4 +12,4 @@ def mul(a, b):
 
 result1 = add(5, 4)
 result2 = sub(5, 1)
- 
+
